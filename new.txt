@@ -1,0 +1,6 @@
+Last Name : Nasan,
+First Name : Iryna,
+Patronymic: Petrovna,
+Age : 30,
+Quantity of pets : 0,
+Expected Salary : $1000
